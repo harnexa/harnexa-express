@@ -1,0 +1,8 @@
+[project]
+name = "harnexa-express"
+version = "0.0.0"
+description = "Scratchpad for experiments and notes."
+requires-python = ">=3.10"
+dependencies = [
+    "nexa-gauge[huggingface]",
+]
